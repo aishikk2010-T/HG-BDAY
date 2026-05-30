@@ -350,10 +350,10 @@ And once again HAPPIEST BIRTHDAY TO YOU.
 
 <!-- REPLACE THESE WITH YOUR PHOTOS -->
 
-<img src="HG photo1.jpeg">
-<img src="Photo2.jpeg">
-<img src="Photo3.jpeg">
+<img src="HG photo2.jpeg">
 <img src="Photo4.jpeg">
+<img src="Photo3.jpeg">
+<img src="Photo1.jpeg">
 <img src="Photo5.jpeg">
 <img src="Photo7.jpeg">
 
