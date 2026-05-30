@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Happy Birthday ❤️</title>
+<title>Happy Birthday HG(BABBYY) ❤️</title>
 
 <style>
 
@@ -13,11 +13,11 @@
 ====================================== */
 
 :root{
-    --main-pink:#ff9ecb;
-    --light-pink:#ffd6e7;
-    --dark-pink:#ff6fa8;
-    --bg1:#fff0f6;
-    --bg2:#ffe3ee;
+    --main-pink:#d8b4fe;
+--light-pink:#f3e8ff;
+--dark-pink:#a855f7;
+--bg1:#faf5ff;
+--bg2:#f3e8ff;
     --text:#5b3758;
 }
 
@@ -314,18 +314,21 @@ To my bestest childhood friend ✨
 
 <!-- REPLACE THIS MESSAGE -->
 
-Happy Birthday to the most wonderful,
-kind-hearted and precious friend anyone
-could ever ask for.
+Happy Birthday to the most special person from my childhood.
 
-Thank you for all the childhood memories,
-laughter, adventures, and moments that
-made life beautiful.
+Growing up with you is one of the best part of my life 
+From silly conversations to bestest teas and all the memories we made together
+Every moment still means a lot to me.No matter how much we grow up or how busy life gets 
+You will always be my most important person i never forget.
+Thanks for being there for me and you are the one who supported me a lot,
+gave me emotional support when i need someone the most.
+Am really lucky to have the bestest friend like you.
+I just hope this year brings you success,happiness,peace and 
+everything your heart wishes for cuz you truely deserve it all
 
-I hope your day is filled with happiness,
-love, and everything your heart wishes for.
-
-You deserve all the smiles in the world. ❤️
+Enjoy your day fully,smile a lot(MY CUTTIE PIE)
+And Yeah.... Don't forget to send me snaps and fitchecks ❤️
+And once again HAPPIEST BIRTHDAY TO YOU.
 
 </p>
 
@@ -347,12 +350,12 @@ You deserve all the smiles in the world. ❤️
 
 <!-- REPLACE THESE WITH YOUR PHOTOS -->
 
-<img src="photo1.jpg">
-<img src="photo2.jpg">
-<img src="photo3.jpg">
-<img src="photo4.jpg">
-<img src="photo5.jpg">
-<img src="photo6.jpg">
+<img src="HG photo1.jpeg">
+<img src="Photo2.jpeg">
+<img src="Photo3.jpeg">
+<img src="Photo4.jpeg">
+<img src="Photo5.jpeg">
+<img src="Photo7.jpeg">
 
 </div>
 
@@ -392,7 +395,7 @@ Happy Birthday Princess 👑💖
 </section>
 
 <footer>
-Made with ❤️ for a very special friend
+Made with ❤️ for my BABBYYY..
 </footer>
 
 <script>
