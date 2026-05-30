@@ -277,7 +277,7 @@ footer{
 
 <!-- REPLACE music.mp3 WITH YOUR FILE -->
 <audio id="bgMusic" loop>
-    <source src="music.mp3" type="audio/mpeg">
+    <source src="Hareya hg.mp3" type="audio/mpeg">
 </audio>
 
 <!-- HERO -->
